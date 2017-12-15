@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firstactivity</string>
+    <string-array name="region">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+</resources>
